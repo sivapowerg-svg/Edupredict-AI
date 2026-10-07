@@ -1,0 +1,7 @@
+{
+  "name": "EduPredict AI - Student Attendance & Performance Predictor",
+  "description": "AI-powered attendance and academic performance analytics that helps educators identify students at risk and take action early.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
